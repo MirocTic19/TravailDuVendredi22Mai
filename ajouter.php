@@ -5,7 +5,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
     if(isset($_POST['nom']) && isset($_POST['identite']) && isset($_POST['ville']) && isset($_POST['power']))
     {
         $data = [
-            'id' => null, // L'ID sera généré automatiquement
+            'id' => null,
             'nom' => $_POST['nom'],
             'identite' => $_POST['identite'],
             'ville' => $_POST['ville'],
