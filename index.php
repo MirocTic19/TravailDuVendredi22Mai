@@ -1,6 +1,6 @@
 <?php
 echo "Hello, World!";
-while
+while(false)
 {
     echo "fuck you";
 }
