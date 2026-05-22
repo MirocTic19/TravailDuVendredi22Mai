@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nom": "jonathan",
+        "identite": "code",
+        "ville": "Kinshasa",
+        "power": "laser"
+    },
+    {
+        "id": 2,
+        "nom": "yedidiah",
+        "identite": "mbungazor",
+        "ville": "Kinshasa",
+        "power": "rien"
+    }
+]
